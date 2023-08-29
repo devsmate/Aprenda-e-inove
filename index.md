@@ -8,4 +8,4 @@
 layout: home
 ---
 
- <img src="assets/ferragem.png" height="200" width="300"/>
+ <img src="assets/ferragem.png" height="300" width="400"/>
